@@ -1,0 +1,491 @@
+,Country,HS4,Trade Value Relatedness
+0,Algeria,Gold,0.0440824353
+1,Algeria,Soap,0.0369600159
+2,Algeria,Other Oily Seeds,0.0369475551
+3,Algeria,Raw Lead,0.0368371318
+4,Algeria,Raw Cotton,0.035825586
+5,Algeria,Insect Resins,0.0352649576
+6,Algeria,Cocoa Beans,0.0351138062
+7,Algeria,Sulphur,0.0346913613
+8,Algeria,Iron Reductions,0.0344837669
+9,Algeria,Manganese Ore,0.0344582751
+10,Benin,Cocoa Beans,0.1050787905
+11,Benin,Bran,0.0999463838
+12,Benin,Dried Legumes,0.0983878762
+13,Benin,Crude Petroleum,0.097805838
+14,Benin,Molasses,0.0966186274
+15,Benin,Manganese Ore,0.0959088465
+16,Benin,Insect Resins,0.0955814063
+17,Benin,Raw Lead,0.0945460487
+18,Benin,"Locust beans, seaweed, sugar beet, cane, for food",0.0943973814
+19,Benin,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0936864192
+20,Botswana,Raw Cotton,0.0478885749
+21,Botswana,Manganese Ore,0.0475454088
+22,Botswana,Gold,0.0473425511
+23,Botswana,Other Oily Seeds,0.0458242925
+24,Botswana,Raw Sugar,0.0450123039
+25,Botswana,Other Ores,0.0444251649
+26,Botswana,Wool,0.0433990304
+27,Botswana,Cocoa Beans,0.0428396272
+28,Botswana,Molasses,0.0421097741
+29,Botswana,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0417758246
+30,Burkina Faso,Manganese Ore,0.0458164599
+31,Burkina Faso,Cocoa Beans,0.0381612183
+32,Burkina Faso,Other Ores,0.0344116924
+33,Burkina Faso,Insect Resins,0.0343477991
+34,Burkina Faso,Dried Legumes,0.0342763146
+35,Burkina Faso,Ground Nuts,0.0339833354
+36,Burkina Faso,Raw Sugar,0.0336698596
+37,Burkina Faso,Other Hides and Skins,0.0333794753
+38,Burkina Faso,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0332559553
+39,Burkina Faso,Precious Metal Ore,0.0327185081
+40,Burundi,Cocoa Beans,0.0887664644
+41,Burundi,Other Oily Seeds,0.082454644
+42,Burundi,Palm Oil,0.0794031597
+43,Burundi,Manganese Ore,0.0791239266
+44,Burundi,Insect Resins,0.0716536161
+45,Burundi,Raw Sugar,0.0714282014
+46,Burundi,Cement,0.070298728
+47,Burundi,Raw Cotton,0.0700082515
+48,Burundi,Raw Tobacco,0.0693973178
+49,Burundi,Bananas,0.0691897848
+50,Chad,Petroleum Gas,0.0206542741
+51,Chad,Manganese Ore,0.0204740802
+52,Chad,Cocoa Beans,0.0189212672
+53,Chad,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0182091502
+54,Chad,Dried Legumes,0.0181639673
+55,Chad,Chromium Ore,0.0171031378
+56,Chad,Raw Sugar,0.016117751
+57,Chad,"Coconuts, Brazil Nuts, and Cashews",0.0160835488
+58,Chad,Onions,0.015247494
+59,Chad,Tin Ores,0.0152229639
+60,Cameroon,Palm Oil,0.0759836604
+61,Cameroon,Manganese Ore,0.067422396
+62,Cameroon,Coconut Oil,0.0664078103
+63,Cameroon,"Coconuts, Brazil Nuts, and Cashews",0.0663497725
+64,Cameroon,Other Oily Seeds,0.0660046486
+65,Cameroon,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0643008965
+66,Cameroon,Aluminium Ore,0.0618882495
+67,Cameroon,Tin Ores,0.0603242715
+68,Cameroon,Bran,0.0603135121
+69,Cameroon,Raw Sugar,0.0602918053
+70,Central African Republic,Cocoa Beans,0.0492098316
+71,Central African Republic,Non-fillet Frozen Fish,0.0400283255
+72,Central African Republic,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0388482504
+73,Central African Republic,Other Oily Seeds,0.0384948465
+74,Central African Republic,Bran,0.0384945652
+75,Central African Republic,Palm Oil,0.0383777728
+76,Central African Republic,Manganese Ore,0.038193793
+77,Central African Republic,Tin Ores,0.0381687166
+78,Central African Republic,Crude Petroleum,0.0378544452
+79,Central African Republic,"Coconuts, Brazil Nuts, and Cashews",0.0363732506
+80,Comoros,Cocoa Beans,0.0389789059
+81,Comoros,Coconut Oil,0.0323910501
+82,Comoros,Fish Fillets,0.030492128
+83,Comoros,Crustaceans,0.0297381364
+84,Comoros,Fish Oil,0.0297289886
+85,Comoros,Non-fillet Fresh Fish,0.0297217768
+86,Comoros,Crude Petroleum,0.0294768361
+87,Comoros,Scrap Aluminium,0.0290512067
+88,Comoros,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0288550911
+89,Comoros,Gold,0.0287486092
+90,Egypt,Raw Tobacco,0.3589805035
+91,Egypt,Crustaceans,0.3486390465
+92,Egypt,Other Nuts,0.346539084
+93,Egypt,Other Vegetables,0.3458990825
+94,Egypt,Chromium Ore,0.3453503028
+95,Egypt,Bananas,0.3418345258
+96,Egypt,Tea,0.3401869417
+97,Egypt,Tanned Sheep Hides,0.3391346368
+98,Egypt,Pepper,0.3370042162
+99,Egypt,Cocoa Beans,0.3332907269
+100,Djibouti,Gold,0.0709289573
+101,Djibouti,Cocoa Beans,0.0698440637
+102,Djibouti,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0615833637
+103,Djibouti,Bananas,0.0614411476
+104,Djibouti,Crustaceans,0.0607438098
+105,Djibouti,Raw Sugar,0.0605993309
+106,Djibouti,Tropical Fruits,0.0604520941
+107,Djibouti,Raw Cotton,0.0596511806
+108,Djibouti,Soap,0.0593450865
+109,Djibouti,Legumes,0.0585346467
+110,Cote d'Ivoire,Aluminium Ore,0.1003117436
+111,Cote d'Ivoire,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0885177165
+112,Cote d'Ivoire,Other Oily Seeds,0.0877600422
+113,Cote d'Ivoire,Crude Petroleum,0.0832505732
+114,Cote d'Ivoire,Insect Resins,0.0825649761
+115,Cote d'Ivoire,Raw Sugar,0.0797382293
+116,Cote d'Ivoire,Crustaceans,0.079339618
+117,Cote d'Ivoire,Cassava,0.0790381708
+118,Cote d'Ivoire,Raw Tobacco,0.0775313641
+119,Cote d'Ivoire,Petroleum Gas,0.0770377072
+120,Republic of the Congo,Petroleum Gas,0.0520889432
+121,Republic of the Congo,Manganese Ore,0.0504235168
+122,Republic of the Congo,Gold,0.0489017369
+123,Republic of the Congo,Non-fillet Frozen Fish,0.0463429544
+124,Republic of the Congo,Scrap Vessels,0.0456818468
+125,Republic of the Congo,Other Ores,0.0454170113
+126,Republic of the Congo,Palm Oil,0.0453735082
+127,Republic of the Congo,Fish Oil,0.0427296148
+128,Republic of the Congo,Aluminium Ore,0.042160875
+129,Republic of the Congo,Crustaceans,0.0419051538
+130,Gambia,Cocoa Beans,0.0826758766
+131,Gambia,Crustaceans,0.0779039227
+132,Gambia,Palm Oil,0.071244268
+133,Gambia,Non-fillet Fresh Fish,0.0697345235
+134,Gambia,Bananas,0.0661058754
+135,Gambia,Manganese Ore,0.0658903723
+136,Gambia,Perfume Plants,0.0652135243
+137,Gambia,Collector's Items,0.0631925347
+138,Gambia,Molasses,0.0628592383
+139,Gambia,Other Processed Fruits and Nuts,0.0616418892
+140,Ethiopia,Crustaceans,0.1747034341
+141,Ethiopia,Cocoa Beans,0.1740735217
+142,Ethiopia,Non-Knit Women's Undergarments,0.1738658983
+143,Ethiopia,Melons,0.1738047494
+144,Ethiopia,Raw Tobacco,0.1733463718
+145,Ethiopia,Tropical Fruits,0.1721837426
+146,Ethiopia,"Locust beans, seaweed, sugar beet, cane, for food",0.1694810518
+147,Ethiopia,Raw Sugar,0.165436225
+148,Ethiopia,Palm Oil,0.1629569477
+149,Ethiopia,Other Knit Clothing Accessories,0.1626432952
+150,Gabon,Cocoa Beans,0.0431372048
+151,Gabon,Gold,0.0328846463
+152,Gabon,Tin Ores,0.0308405893
+153,Gabon,Aluminium Ore,0.0305128606
+154,Gabon,Petroleum Gas,0.0297493334
+155,Gabon,Non-fillet Frozen Fish,0.0278271782
+156,Gabon,Bananas,0.0273268996
+157,Gabon,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0269174085
+158,Gabon,"Coconuts, Brazil Nuts, and Cashews",0.0258613361
+159,Gabon,Nickel Ore,0.0250198372
+160,Eritrea,Cocoa Beans,0.0179993503
+161,Eritrea,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0174959273
+162,Eritrea,Tin Ores,0.0168331608
+163,Eritrea,Aluminium Ore,0.0158491923
+164,Eritrea,Precious Metal Ore,0.015841969
+165,Eritrea,Knit Men's Shirts,0.0158294898
+166,Eritrea,Insect Resins,0.0154828868
+167,Eritrea,"Coconuts, Brazil Nuts, and Cashews",0.0154334464
+168,Eritrea,Manganese Ore,0.0151410703
+169,Eritrea,Nickel Mattes,0.014922517
+170,Lesotho,Knit Women's Undergarments,0.1385139028
+171,Lesotho,Other Cloth Articles,0.1301374115
+172,Lesotho,Packing Bags,0.1296254346
+173,Lesotho,Other Knit Clothing Accessories,0.1288734172
+174,Lesotho,House Linens,0.1197537386
+175,Lesotho,Crustaceans,0.1186649692
+176,Lesotho,Leather Apparel,0.1157690579
+177,Lesotho,Molasses,0.1157405393
+178,Lesotho,Insect Resins,0.1157151589
+179,Lesotho,Felt or Coated Fabric Garments,0.1144005699
+180,Guinea,Manganese Ore,0.0250410274
+181,Guinea,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0217433883
+182,Guinea,Palm Oil,0.0213458348
+183,Guinea,Tin Ores,0.0200948517
+184,Guinea,Tapioca,0.0189328693
+185,Guinea,Insect Resins,0.0188998411
+186,Guinea,Coconut Oil,0.018769857
+187,Guinea,Raw Cotton,0.0187605832
+188,Guinea,Crustaceans,0.0175321959
+189,Guinea,Coconut and Other Vegetable Fibers,0.0171510581
+190,Kenya,Raw Sugar,0.2950927342
+191,Kenya,Bananas,0.2902664584
+192,Kenya,Crustaceans,0.2870028562
+193,Kenya,Cassava,0.281651915
+194,Kenya,Melons,0.2816301275
+195,Kenya,Wheat Flours,0.2766584459
+196,Kenya,Knit Women's Shirts,0.2747095549
+197,Kenya,Raw Cotton,0.2732957992
+198,Kenya,Other Fruits,0.2699680171
+199,Kenya,Non-fillet Frozen Fish,0.2699229423
+200,Ghana,Petroleum Gas,0.0867503707
+201,Ghana,Raw Cotton,0.0848884374
+202,Ghana,Raw Sugar,0.0835216444
+203,Ghana,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.082579101
+204,Ghana,Crustaceans,0.0822997988
+205,Ghana,Fish Fillets,0.0784846399
+206,Ghana,Copper Ore,0.078414451
+207,Ghana,Soap,0.0781144241
+208,Ghana,Tin Ores,0.0780141038
+209,Ghana,Insect Resins,0.0779135672
+210,Mali,Cocoa Beans,0.0415663684
+211,Mali,Palm Oil,0.0361238322
+212,Mali,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0346032455
+213,Mali,Ground Nuts,0.0316174323
+214,Mali,Raw Sugar,0.0310136874
+215,Mali,Bananas,0.030979468
+216,Mali,Crude Petroleum,0.0303496449
+217,Mali,Crustaceans,0.0300367896
+218,Mali,Legume Flours,0.02943877
+219,Mali,Soap,0.029330708
+220,Madagascar,Tea,0.1963369893
+221,Madagascar,Jute Woven Fabric,0.1909362662
+222,Madagascar,"Nutmeg, mace and cardamons",0.1891396359
+223,Madagascar,Other Cloth Articles,0.1889208315
+224,Madagascar,Fake Hair,0.1889067643
+225,Madagascar,Bananas,0.1888180658
+226,Madagascar,"Coconuts, Brazil Nuts, and Cashews",0.1849226635
+227,Madagascar,Molasses,0.1842305779
+228,Madagascar,Other Oily Seeds,0.1796403251
+229,Madagascar,Tropical Fruits,0.1791329457
+230,Libya,Ammonia,0.025661095
+231,Libya,Non-fillet Frozen Fish,0.0231590181
+232,Libya,Raw Aluminium,0.0231023868
+233,Libya,Refined Petroleum,0.0221150164
+234,Libya,Cocoa Beans,0.0219352602
+235,Libya,Coal Briquettes,0.0216631663
+236,Libya,Chromium Ore,0.0210151082
+237,Libya,Crustaceans,0.020266122
+238,Libya,Collector's Items,0.0202575914
+239,Libya,Acyclic Alcohols,0.0198972153
+240,Liberia,Aluminium Ore,0.0323752689
+241,Liberia,Manganese Ore,0.0318827681
+242,Liberia,Crude Petroleum,0.0316788283
+243,Liberia,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0314377499
+244,Liberia,Crustaceans,0.0281803291
+245,Liberia,"Coconuts, Brazil Nuts, and Cashews",0.0281533722
+246,Liberia,Fish Fillets,0.0281197011
+247,Liberia,Bananas,0.0277235947
+248,Liberia,Tin Ores,0.0275135979
+249,Liberia,Petroleum Gas,0.0270617685
+250,Morocco,Knit Men's Undergarments,0.2596301955
+251,Morocco,Other Knit Clothing Accessories,0.2375394193
+252,Morocco,Pepper,0.2369136206
+253,Morocco,Raw Tobacco,0.2364452131
+254,Morocco,Insect Resins,0.2347238739
+255,Morocco,Bananas,0.2335023544
+256,Morocco,Gold,0.2301800158
+257,Morocco,Non-Retail Pure Cotton Yarn,0.2292958858
+258,Morocco,House Linens,0.229074625
+259,Morocco,Cassava,0.2273367132
+260,Mauritania,Manganese Ore,0.0497805866
+261,Mauritania,Cocoa Beans,0.0488646235
+262,Mauritania,Crude Petroleum,0.045952266
+263,Mauritania,Tropical Fruits,0.0458606061
+264,Mauritania,Petroleum Gas,0.0425942178
+265,Mauritania,Raw Sugar,0.0420210547
+266,Mauritania,Other Oily Seeds,0.0416148525
+267,Mauritania,Other Ores,0.0404748109
+268,Mauritania,Salt,0.0404329226
+269,Mauritania,Palm Oil,0.0402579865
+270,Mauritius,Other Cloth Articles,0.2286407696
+271,Mauritius,Bananas,0.2109596558
+272,Mauritius,Packing Bags,0.2086890501
+273,Mauritius,Crustaceans,0.2076096165
+274,Mauritius,Other Women's Undergarments,0.2030448079
+275,Mauritius,Molasses,0.2011628059
+276,Mauritius,Raw Tobacco,0.2006084459
+277,Mauritius,Cocoa Beans,0.1974934134
+278,Mauritius,Cassava,0.1961291374
+279,Mauritius,Processed Crustaceans,0.1960094349
+280,Malawi,Gold,0.1202392858
+281,Malawi,Cocoa Beans,0.1159056653
+282,Malawi,Palm Oil,0.1061819472
+283,Malawi,Bananas,0.1036930812
+284,Malawi,Manganese Ore,0.1008375305
+285,Malawi,Molasses,0.1005184831
+286,Malawi,"Coconuts, Brazil Nuts, and Cashews",0.0994690084
+287,Malawi,Spices,0.0973026599
+288,Malawi,Maté,0.0970116043
+289,Malawi,Melons,0.0943039491
+290,Niger,Cocoa Beans,0.0602185317
+291,Niger,Raw Cotton,0.0577290353
+292,Niger,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0552843864
+293,Niger,Manganese Ore,0.0552740287
+294,Niger,Tropical Fruits,0.0541763183
+295,Niger,Ground Nuts,0.0505577391
+296,Niger,Crustaceans,0.0504570622
+297,Niger,Spices,0.0502788514
+298,Niger,Crude Petroleum,0.0491629297
+299,Niger,Other Hides and Skins,0.0490754417
+300,Namibia,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.1367275864
+301,Namibia,Cocoa Beans,0.1284044791
+302,Namibia,Wool,0.1273189333
+303,Namibia,Raw Cotton,0.1258377254
+304,Namibia,Precious Metal Ore,0.1226626609
+305,Namibia,Copper Ore,0.1204945747
+306,Namibia,Crude Petroleum,0.1199280904
+307,Namibia,Other Oily Seeds,0.1182976908
+308,Namibia,Chromium Ore,0.1182909289
+309,Namibia,Raw Sugar,0.1176462634
+310,Mozambique,Manganese Ore,0.1547102537
+311,Mozambique,Cocoa Beans,0.1435183027
+312,Mozambique,Tin Ores,0.1326386053
+313,Mozambique,Insect Resins,0.1292017456
+314,Mozambique,Crude Petroleum,0.1250094484
+315,Mozambique,Aluminium Ore,0.1215639745
+316,Mozambique,Palm Oil,0.1191448882
+317,Mozambique,Tropical Fruits,0.1186481271
+318,Mozambique,Non-fillet Frozen Fish,0.1109936948
+319,Mozambique,Soap,0.1107462236
+320,Sao Tome and Principe,Collector's Items,0.0538244016
+321,Sao Tome and Principe,Scrap Copper,0.0517352751
+322,Sao Tome and Principe,Non-fillet Frozen Fish,0.0507371513
+323,Sao Tome and Principe,Precious Metal Scraps,0.0499830105
+324,Sao Tome and Principe,Surveying Equipment,0.0497192339
+325,Sao Tome and Principe,Rough Wood,0.0493459234
+326,Sao Tome and Principe,Sawn Wood,0.0491044984
+327,Sao Tome and Principe,Recreational Boats,0.0486531672
+328,Sao Tome and Principe,Scrap Plastic,0.0483478163
+329,Sao Tome and Principe,Recovered Paper,0.0481158149
+330,Senegal,Cocoa Beans,0.198138871
+331,Senegal,Raw Sugar,0.1850828635
+332,Senegal,Spices,0.1761103042
+333,Senegal,Bananas,0.1757214596
+334,Senegal,Crude Petroleum,0.1755145264
+335,Senegal,Molasses,0.1746681161
+336,Senegal,Other Processed Fruits and Nuts,0.1733400403
+337,Senegal,Palm Oil,0.1726575297
+338,Senegal,Dried Legumes,0.1706209017
+339,Senegal,Petroleum Gas,0.1687338577
+340,Rwanda,Manganese Ore,0.0808193001
+341,Rwanda,Cocoa Beans,0.0788355673
+342,Rwanda,Other Oily Seeds,0.0724755343
+343,Rwanda,Insect Resins,0.0701660881
+344,Rwanda,Palm Oil,0.0679295218
+345,Rwanda,Raw Sugar,0.0678847397
+346,Rwanda,Raw Cotton,0.0677129497
+347,Rwanda,Molasses,0.0672285303
+348,Rwanda,Soap,0.0668623936
+349,Rwanda,Perfume Plants,0.0656010434
+350,Nigeria,Manganese Ore,0.1118849656
+351,Nigeria,Gold,0.099327592
+352,Nigeria,Raw Cotton,0.0896153469
+353,Nigeria,Palm Oil,0.0841831482
+354,Nigeria,Tropical Fruits,0.0804466261
+355,Nigeria,Aluminium Ore,0.0801759174
+356,Nigeria,Ground Nuts,0.0785425768
+357,Nigeria,Bananas,0.0784178093
+358,Nigeria,Dried Legumes,0.0781676487
+359,Nigeria,Raw Sugar,0.0762173019
+360,South Sudan,Petroleum Gas,0.0160556922
+361,South Sudan,Raw Cotton,0.0156039451
+362,South Sudan,Cocoa Beans,0.0153198713
+363,South Sudan,Other Oily Seeds,0.0151606933
+364,South Sudan,Wool,0.0147600223
+365,South Sudan,Chromium Ore,0.0143276422
+366,South Sudan,Manganese Ore,0.0141582797
+367,South Sudan,Non-fillet Frozen Fish,0.0137708856
+368,South Sudan,Dried Legumes,0.0135454508
+369,South Sudan,Rough Wood,0.0134637039
+370,South Africa,Raw Cotton,0.2535647238
+371,South Africa,Crude Petroleum,0.2475527588
+372,South Africa,Petroleum Gas,0.2468936211
+373,South Africa,Dried Legumes,0.2360919299
+374,South Africa,Pharmaceutical Animal Products,0.2346321596
+375,South Africa,Copper Ore,0.2339188333
+376,South Africa,Other Oily Seeds,0.2330402296
+377,South Africa,Cocoa Beans,0.2327417811
+378,South Africa,Nickel Mattes,0.2308866813
+379,South Africa,Rough Wood,0.2262066501
+380,Sierra Leone,Coconut Oil,0.0692156297
+381,Sierra Leone,Tin Ores,0.0628814644
+382,Sierra Leone,Rubber,0.0623578352
+383,Sierra Leone,Manganese Ore,0.0613220036
+384,Sierra Leone,Gold,0.0609878834
+385,Sierra Leone,"Coconuts, Brazil Nuts, and Cashews",0.0577452189
+386,Sierra Leone,Bananas,0.0549461137
+387,Sierra Leone,Crustaceans,0.0544191726
+388,Sierra Leone,Bran,0.0542287772
+389,Sierra Leone,Fish Fillets,0.054123116
+390,Seychelles,Crustaceans,0.0598699267
+391,Seychelles,Scrap Vessels,0.0551097946
+392,Seychelles,Crude Petroleum,0.0542678983
+393,Seychelles,Molluscs,0.052059148
+394,Seychelles,Processed Fish,0.051987688
+395,Seychelles,Tropical Fruits,0.0505919225
+396,Seychelles,Cocoa Beans,0.0505765227
+397,Seychelles,Gold,0.0504340315
+398,Seychelles,Palm Oil,0.0501436691
+399,Seychelles,Hard Liquor,0.0484734318
+400,Togo,Bananas,0.1501979463
+401,Togo,Insect Resins,0.1493564192
+402,Togo,Molasses,0.1481943126
+403,Togo,Crustaceans,0.1466852568
+404,Togo,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.1448178533
+405,Togo,Non-fillet Frozen Fish,0.1447423813
+406,Togo,Dried Legumes,0.14289597
+407,Togo,Crude Petroleum,0.1428188344
+408,Togo,Raw Tobacco,0.1425287908
+409,Togo,Other Processed Fruits and Nuts,0.1409060373
+410,Eswatini,Knit Sweaters,0.1206813699
+411,Eswatini,Molasses,0.1192540676
+412,Eswatini,Other Knit Garments,0.1190177878
+413,Eswatini,Crustaceans,0.1190170422
+414,Eswatini,Knit Men's Undergarments,0.1182094547
+415,Eswatini,Wheat Flours,0.1167141995
+416,Eswatini,Gold,0.1166554478
+417,Eswatini,Cocoa Beans,0.1163128998
+418,Eswatini,Non-fillet Frozen Fish,0.1148406238
+419,Eswatini,Soap,0.1137131176
+420,Tanzania,Insect Resins,0.1927238776
+421,Tanzania,Other Ores,0.1861511911
+422,Tanzania,Palm Oil,0.1769706276
+423,Tanzania,Crustaceans,0.1730515262
+424,Tanzania,Raw Sugar,0.1721929944
+425,Tanzania,Bananas,0.1677520801
+426,Tanzania,Pepper,0.1645716989
+427,Tanzania,Maté,0.1590502791
+428,Tanzania,Wool,0.1551176272
+429,Tanzania,"Locust beans, seaweed, sugar beet, cane, for food",0.1501725301
+430,Sudan,Manganese Ore,0.073428992
+431,Sudan,Cocoa Beans,0.0733596651
+432,Sudan,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0706319493
+433,Sudan,Tropical Fruits,0.0689098111
+434,Sudan,Other Hides and Skins,0.0663220045
+435,Sudan,Maté,0.0650509255
+436,Sudan,Crustaceans,0.0648229767
+437,Sudan,Wool,0.0642410939
+438,Sudan,Raw Sugar,0.0615071138
+439,Sudan,Non-fillet Frozen Fish,0.0608266714
+440,Zimbabwe,Manganese Ore,0.1263496006
+441,Zimbabwe,Tin Ores,0.1080982307
+442,Zimbabwe,Cocoa Beans,0.1076986164
+443,Zimbabwe,Coal Briquettes,0.1044406846
+444,Zimbabwe,Other Oily Seeds,0.0993847374
+445,Zimbabwe,Wool,0.0980619331
+446,Zimbabwe,Insect Resins,0.0967470867
+447,Zimbabwe,Dried Legumes,0.0944177662
+448,Zimbabwe,Pharmaceutical Animal Products,0.0937788553
+449,Zimbabwe,Copper Ore,0.0935516561
+450,Uganda,Manganese Ore,0.1857311712
+451,Uganda,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.1856539279
+452,Uganda,Crustaceans,0.16519665
+453,Uganda,Other Hides and Skins,0.1647835007
+454,Uganda,"Coconuts, Brazil Nuts, and Cashews",0.1630539061
+455,Uganda,Other Processed Fruits and Nuts,0.1591499123
+456,Uganda,Raw Lead,0.1574121089
+457,Uganda,Other Vegetable Products,0.1571140099
+458,Uganda,Fruit Juice,0.1556651975
+459,Uganda,Coconut Oil,0.155537758
+460,Zambia,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.1153130371
+461,Zambia,Cocoa Beans,0.113528434
+462,Zambia,Tropical Fruits,0.1093230296
+463,Zambia,Other Oily Seeds,0.1063232778
+464,Zambia,Tin Ores,0.1060329401
+465,Zambia,Insect Resins,0.1040481063
+466,Zambia,Chromium Ore,0.1016616534
+467,Zambia,Crude Petroleum,0.1009770092
+468,Zambia,Precious Metal Ore,0.099632293
+469,Zambia,Bananas,0.0972423354
+470,Tunisia,Packing Bags,0.2449719893
+471,Tunisia,Knit Men's Coats,0.2445198075
+472,Tunisia,Knitted Hats,0.2347412824
+473,Tunisia,Processed Crustaceans,0.234449173
+474,Tunisia,Pepper,0.2302624665
+475,Tunisia,Plaiting Products,0.2289523233
+476,Tunisia,Non-Retail Pure Cotton Yarn,0.2287950902
+477,Tunisia,Hats,0.2285254212
+478,Tunisia,Basketwork,0.2277136704
+479,Tunisia,Tea,0.224987403
+480,Angola,Gold,0.0110560449
+481,Angola,Cocoa Beans,0.0109094707
+482,Angola,Sulphur,0.0107693628
+483,Angola,"Niobium, Tantalum, Vanadium and Zirconium Ore",0.0105020381
+484,Angola,Chromium Ore,0.0101505724
+485,Angola,Other Ores,0.0091876568
+486,Angola,Raw Cotton,0.009144173
+487,Angola,Scrap Vessels,0.0090931923
+488,Angola,Tin Ores,0.0089737667
+489,Angola,Maté,0.00879713
